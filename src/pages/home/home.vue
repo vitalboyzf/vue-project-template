@@ -7,8 +7,8 @@
 <script>
 export default {
   name: "Home",
-  components: {},
-  mixins: [],
+  created() {},
+  mounted() {},
   props: {
     msg: {
       type: String,
@@ -19,15 +19,10 @@ export default {
     return {};
   },
   computed: {},
-  watch: {},
-  created() {},
-  mounted() {},
   methods: {},
+  components: {},
 };
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-.home {
-}
-</style>
+<style scoped></style>

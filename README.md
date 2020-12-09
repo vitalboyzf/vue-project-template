@@ -1,19 +1,19 @@
-# hy-vue-temp
 
-## Project setup
+
+## 项目启动
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 开发者模式，热更新
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 生产模式，打包
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 更多配置详情请参考vue-cli [引用地址](https://cli.vuejs.org/config/).
+
